@@ -3,7 +3,7 @@
 In the digital age, where data is the lifeblood of businesses and organizations, server security is of paramount importance. Ensuring the safety of your server is not only a matter of protecting sensitive data but also maintaining the trust of your clients and stakeholders. In this comprehensive guide, we will explore a range of essential measures to keep your server secure, including the role of server antivirus and the importance of a secure hosting provider.
 
 ## 1. Implement Robust Access Controls
-One of the foundational elements of server security is controlling who can access your server. Implement strong access controls to limit access to authorized personnel only. This includes using secure passwords, two-factor authentication, and role-based access to ensure that individuals can only access the parts of the server they need for their tasks.
+One of the foundational elements of server security is controlling who can access your server. Implement strong access controls to limit access to authorized personnel only. This includes using secure passwords with [CAPTCHA](https://www.kemuhost.com/blog/add-captcha-to-website/), two-factor authentication, and role-based access to ensure that individuals can only access the parts of the server they need for their tasks.
 
 ## 2. Regular Software Updates and Patch Management
 Outdated software and unpatched vulnerabilities are a hacker's playground. Keep your server secure by promptly applying software updates and patches. Ensure that your server's operating system, applications, and server software are all up to date. Many security breaches occur through known vulnerabilities that have already been patched.
